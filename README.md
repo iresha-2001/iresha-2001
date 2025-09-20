@@ -21,10 +21,9 @@
 
 ```javascript
 const dreamCoder = {
-  name: "[Your Name]",
-  location: "[Your Location]",
-  email: "[your.email@example.com]",
-  pronouns: "she/her", // or your preferred pronouns
+  name: "Iresha Rajapaksha",
+  location: "Kandy, Sri Lanka",
+  email: "sandeepanirajapaksha01@gmail.com",
   code: ["JavaScript", "TypeScript", "Python", "C++", "Java", "Arduino"],
   askMeAbout: [
     "Full-Stack Development", 
@@ -58,17 +57,6 @@ const dreamCoder = {
   ],
   funFact: "I believe technology should be as beautiful as it is functional! 💕"
 };
-
-console.log(`
-   ═══════════════════════════════════════════
-   🌸 Welcome to my pink-coded paradise! 🌸
-   💖 I'm a developer who believes in beautiful code
-   🚀 Building the future one line at a time
-   🤖 Making IoT devices smarter & ML models better
-   ✨ Turning ideas into interactive experiences
-   🌺 Code with love, debug with patience
-   ═══════════════════════════════════════════
-`);
 ```
 
 <div align="center">
